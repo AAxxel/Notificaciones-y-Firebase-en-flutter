@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "745116786641",
+    "project_id": "tareas-bd-147d8",
+    "storage_bucket": "tareas-bd-147d8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:745116786641:android:a0d51ea667f2fea4214af0",
+        "android_client_info": {
+          "package_name": "com.example.streams_tareas"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyACPn2cMty5A6Zlxr0FntTIOWHx0mo-0Nw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
